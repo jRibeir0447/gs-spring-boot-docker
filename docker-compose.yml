@@ -1,6 +1,6 @@
 version: '3.0'
 services:
-  mandatsanfragetool:
+  sp-comp-test:
     image: crjoaoribeiro.azurecr.io/spring-boot-docker-complete
     restart: always
     environment:
